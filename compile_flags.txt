@@ -1,0 +1,4 @@
+-IC:\Users\Younes\Desktop\projectx\projectx
+-std=c++17
+-target
+
